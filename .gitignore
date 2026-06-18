@@ -1,0 +1,10 @@
+# Generated graph output files (produced by graphify.py)
+graph.png
+graph.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
