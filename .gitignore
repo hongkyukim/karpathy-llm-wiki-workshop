@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+vault/raw/github/*.json
+vault/raw/github/*.md
+docs/graph/*.svg
+docs/graph/*.png

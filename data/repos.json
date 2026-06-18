@@ -1,0 +1,27 @@
+[
+  {
+    "owner": "karpathy",
+    "repo": "nanoGPT",
+    "focus": "minimal GPT training code; useful for model training concepts"
+  },
+  {
+    "owner": "karpathy",
+    "repo": "llm.c",
+    "focus": "LLM training in C/CUDA; useful for systems and performance concepts"
+  },
+  {
+    "owner": "ggerganov",
+    "repo": "llama.cpp",
+    "focus": "local LLM inference; useful for quantization and deployment concepts"
+  },
+  {
+    "owner": "ollama",
+    "repo": "ollama",
+    "focus": "developer-friendly local model runtime; useful for productization concepts"
+  },
+  {
+    "owner": "langchain-ai",
+    "repo": "langchain",
+    "focus": "LLM application framework; useful for agent/RAG comparison concepts"
+  }
+]
